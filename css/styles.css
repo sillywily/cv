@@ -9,7 +9,8 @@ h3 {
 }
 hr { 
         
-    backgroung-color="white";
+    backgroung-color: white;
+    border-style: none;
     height: 2px;
     
 }
